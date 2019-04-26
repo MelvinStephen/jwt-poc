@@ -1,4 +1,4 @@
-package com.yantriks.jwt;
+package com.test.jwt;
 
 import java.io.BufferedReader;
 import java.io.StringReader;
