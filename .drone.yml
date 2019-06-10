@@ -2,7 +2,7 @@ kind: pipeline
 name: default
 
 steps:
-- name: frontend
+- name: Test
   image: java:openjdk-7
   commands:
   - echo "test"
