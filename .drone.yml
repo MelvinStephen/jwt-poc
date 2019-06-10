@@ -5,4 +5,4 @@ steps:
 - name: Test
   image: java:openjdk-7
   commands:
-  - echo "test"
+  - echo "new"
